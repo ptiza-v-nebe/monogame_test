@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/Users/ivan-zarevich/Desktop/monogame/MyProject/Content/earth.png","/Users/ivan-zarevich/Desktop/monogame/MyProject/Content/bin/DesktopGL/Content/earth.xnb","TextureProcessor","Texture2DContent",52980,133301,0.656794
+"/Users/ivan-zarevich/Desktop/monogame/MyProject/Content/shuttle.png","/Users/ivan-zarevich/Desktop/monogame/MyProject/Content/bin/DesktopGL/Content/shuttle.xnb","TextureProcessor","Texture2DContent",9105,125045,0.042001
+"/Users/ivan-zarevich/Desktop/monogame/MyProject/Content/stars.jpg","/Users/ivan-zarevich/Desktop/monogame/MyProject/Content/bin/DesktopGL/Content/stars.xnb","TextureProcessor","Texture2DContent",150614,1920085,0.275004
